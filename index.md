@@ -6,6 +6,8 @@
 <p class=p1>On this repo is where I’m going to make and publish most of my up coming tweaks.</p>
 <p class=note> <b>Please leave any issues or requests <a href="https://github.com/darthoce/darthoce.github.io">on the repo</a></b> </p>
  <p class=regards> 2020 DarthOCE© </p>
+ <img src="https://getsileo.app/img/icon.png" class=sileoicon> </img>
+ 
  <title> Liam </title>
 </body>
   
