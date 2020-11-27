@@ -13,5 +13,17 @@
 </html>
 
 
-<style> .body { background-color:black; } .p1 { color:white; } .note { color:white } .regards { color:#474545; } .title { animation: color-change 1s infinite; text-align:center; } @keyframes color-change { 0% { color:purple; } 25% { color: red; } 50% { color: blue; } 75% { color: #15ed4f; } 100% { color: #f28416; } } </style>
+<style> .body { background-color:black; }
+ .p1 { color:white; } 
+ .note { color:white } 
+ .regards { color:#474545; } 
+ .title { animation: color-change 1s infinite; text-align:center; } 
+ @keyframes 
+ color-change 
+ { 0% { color:purple; }
+ 25% { color: red; } 
+ 50% { color: blue; } 
+ 75% { color: #15ed4f; } 
+ 100% { color: #f28416; } }
+</style>
 
